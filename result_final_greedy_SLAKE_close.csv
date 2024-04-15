@@ -1,0 +1,270 @@
+Figure_path,Question,Pred,Label
+xmlab102/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",No
+xmlab102/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab102/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:",No ,No
+xmlab102/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:",Yes ,No
+xmlab102/source.jpg,"Think step by step, answer the Question: Which is the biggest in this image,lung,liver or heart?The Answer is:",lung ,Lung
+xmlab103/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",No
+xmlab103/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab103/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:",Yes ,No
+xmlab103/source.jpg,"Think step by step, answer the Question: Which is the biggest in this image,lung,liver or heart?The Answer is:",Liver ,Lung
+xmlab105/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",No
+xmlab105/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab105/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:",No ,No
+xmlab105/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:",Yes ,No
+xmlab124/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab124/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Heart
+xmlab13/source.jpg,"Think step by step, answer the Question: Is there any abnormality in the spleen?The Answer is:","No, there is no abnormality in the spleen. ",No
+xmlab13/source.jpg,"Think step by step, answer the Question: Does the liver look normal?The Answer is:","No, it does not look normal. ",Yes
+xmlab13/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab13/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab13/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab130/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab130/source.jpg,"Think step by step, answer the Question: Does the lung look healthy?The Answer is:","Yes, ",No
+xmlab135/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab135/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Heart
+xmlab142/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab142/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Heart
+xmlab147/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab147/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab147/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab148/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab148/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Heart
+xmlab152/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab152/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Heart
+xmlab159/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab159/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab159/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab160/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab160/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab160/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab169/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab169/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab169/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab173/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab173/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab173/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab18/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab18/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",Yes
+xmlab18/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab18/source.jpg,"Think step by step, answer the Question: Does the liver look normal ?The Answer is:","No, it does not look normal. ",Yes
+xmlab18/source.jpg,"Think step by step, answer the Question: Does the kidney look abnormal?The Answer is:","No, it does not look abnormal. ",No
+xmlab18/source.jpg,"Think step by step, answer the Question: Do the spleen look abnormal?The Answer is:","No, the spleen looks normal. ",No
+xmlab185/source.jpg,"Think step by step, answer the Question: Does this image look abnormal?The Answer is:","No, it looks normal. ",Yes
+xmlab185/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab185/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab185/source.jpg,"Think step by step, answer the Question: Which organ is abnormal, heart or lung?The Answer is:",Lung ,Lung
+xmlab208/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab208/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney ",Yes
+xmlab208/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab208/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",No
+xmlab208/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab208/source.jpg,"Think step by step, answer the Question: Is the liver healthy?The Answer is:",Yes ,Yes
+xmlab208/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, kidney or liver?The Answer is:",kidney ,Liver
+xmlab219/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",Yes
+xmlab219/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab219/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab219/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab219/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab219/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",Yes
+xmlab219/source.jpg,"Think step by step, answer the Question: Is the liver healthy?The Answer is:",Yes ,Yes
+xmlab219/source.jpg,"Think step by step, answer the Question: Which is the biggest in this image, lung,heart or liver?The Answer is:",lung ,Lung
+xmlab224/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab224/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab224/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab224/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab224/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab224/source.jpg,"Think step by step, answer the Question: Which is the biggest in this image, spleen,lung, or liver?The Answer is:",spleen ,Liver
+xmlab234/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab234/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab234/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab234/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, kidney or spleen?The Answer is:",kidney ,Liver
+xmlab234/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab234/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",No
+xmlab234/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab235/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab235/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab235/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab235/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab235/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab235/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab235/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, liver or spleen?The Answer is:",liver ,Spleen
+xmlab24/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab24/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab24/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab25/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",No
+xmlab25/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab25/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab250/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab250/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab250/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab250/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab250/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab250/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",Yes
+xmlab250/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, liver or heart?The Answer is:",liver ,Liver
+xmlab252/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",No
+xmlab252/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab252/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",Yes
+xmlab252/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab252/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",No
+xmlab252/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab252/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, kidney or spleen?The Answer is:",kidney ,Spleen
+xmlab253/source.jpg,"Think step by step, answer the Question: Does this image look normal?The Answer is:","No, it does not look normal. ",Yes
+xmlab253/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab253/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab253/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab253/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab253/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab264/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",No
+xmlab264/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",Yes
+xmlab264/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab264/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",No
+xmlab264/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart ",No
+xmlab269/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab269/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab269/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab269/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab269/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab274/source.jpg,"Think step by step, answer the Question: Does the picture contain liver?The Answer is:","No, it does not contain liver. ",Yes
+xmlab274/source.jpg,"Think step by step, answer the Question: Does the picture contain kidney?The Answer is:","No, it does not contain kidney. ",No
+xmlab274/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",Yes
+xmlab274/source.jpg,"Think step by step, answer the Question: Does the picture contain lung?The Answer is:","No, it does not contain lung. ",Yes
+xmlab274/source.jpg,"Think step by step, answer the Question: Does the picture contain heart?The Answer is:","No, it does not contain heart. ",No
+xmlab274/source.jpg,"Think step by step, answer the Question: Which is bigger in this image, liver or spleen?The Answer is:",liver ,Liver
+xmlab299/source.jpg,"Think step by step, answer the Question: Which side of lung is abnormal in this image,left or right?The Answer is:",Left ,Right
+xmlab299/source.jpg,"Think step by step, answer the Question: Is/Are there abnormalities in the patient's right lung?The Answer is:","Yes, there are abnormalities in the patient's right lung. ",Yes
+xmlab299/source.jpg,"Think step by step, answer the Question: Is this image normal?The Answer is:","No, it is not normal. ",No
+xmlab299/source.jpg,"Think step by step, answer the Question: Can pneumothorax be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",No
+xmlab304/source.jpg,"Think step by step, answer the Question: Is this a transverse plane?The Answer is:","No, it is a lateral plane. ",No
+xmlab304/source.jpg,"Think step by step, answer the Question: Is this a study of the chest?The Answer is:","Yes, ",Yes
+xmlab304/source.jpg,"Think step by step, answer the Question: Is/Are there abnormalities in the patient's right lung?The Answer is:","Yes, there are abnormalities in the patient's right lung. ",Yes
+xmlab304/source.jpg,"Think step by step, answer the Question: Can atelectasis be observed on the upper right lung in this picture?The Answer is:","No, it cannot be observed. ",No
+xmlab311/source.jpg,"Think step by step, answer the Question: Is this image taken via X-Ray?The Answer is:","No, it is not taken via X-Ray. ",Yes
+xmlab311/source.jpg,"Think step by step, answer the Question: Is this a transverse plane?The Answer is:","No, it is a transverse plane. ",No
+xmlab311/source.jpg,"Think step by step, answer the Question: Which side of lung is abnormal in this image,left or right?The Answer is:",Left ,Left
+xmlab311/source.jpg,"Think step by step, answer the Question: Is this a study of the chest?The Answer is:",Yes ,Yes
+xmlab311/source.jpg,"Think step by step, answer the Question: Is this a study of the pelvic cavity?The Answer is:","No, it is not a study of the pelvic cavity. ",No
+xmlab311/source.jpg,"Think step by step, answer the Question: Is the lung abnormal?The Answer is:","No, the lung is normal. ",Yes
+xmlab311/source.jpg,"Think step by step, answer the Question: Can mass be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab312/source.jpg,"Think step by step, answer the Question: Is this a coronal section?The Answer is:","No, it is a transverse section. ",Yes
+xmlab312/source.jpg,"Think step by step, answer the Question: Is this a study of the neck?The Answer is:","Yes, ",No
+xmlab312/source.jpg,"Think step by step, answer the Question: Does the patient have any abnormalities?The Answer is:","No, the patient has no abnormalities. ",Yes
+xmlab312/source.jpg,"Think step by step, answer the Question: Is this image normal?The Answer is:","No, it is not normal. ",No
+xmlab312/source.jpg,"Think step by step, answer the Question: Can atelectasis be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab314/source.jpg,"Think step by step, answer the Question: Is this image taken via X-Ray?The Answer is:","No, it is not taken via X-Ray. ",Yes
+xmlab314/source.jpg,"Think step by step, answer the Question: Which side of lung is abnormal in this image,left or right?The Answer is:",Left ,Right
+xmlab314/source.jpg,"Think step by step, answer the Question: Does the lung look abnormal?The Answer is:","No, it looks normal. ",Yes
+xmlab314/source.jpg,"Think step by step, answer the Question: Can pneumonia be observed on the right lung in this picture?The Answer is:","No, it cannot be observed on the right lung in this picture. ",Yes
+xmlab320/source.jpg,"Think step by step, answer the Question: Which plane is the image scanned, transverse plane or coronal plane?The Answer is:",transverse plane ,Coronal Plane
+xmlab320/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the abdomen?The Answer is:","Yes, the organs in the abdomen exist. ",No
+xmlab320/source.jpg,"Think step by step, answer the Question: Is this image normal?The Answer is:","No, it is not normal. ",No
+xmlab320/source.jpg,"Think step by step, answer the Question: Can cardiomegaly be observed on the heart in this picture?The Answer is:","No, it cannot be observed on the heart in this picture. ",Yes
+xmlab329/source.jpg,"Think step by step, answer the Question: Is this sagittal plane?The Answer is:","No, it is not sagittal plane. ",No
+xmlab329/source.jpg,"Think step by step, answer the Question: Does the lung look abnormal?The Answer is:","No, it looks normal. ",Yes
+xmlab329/source.jpg,"Think step by step, answer the Question: Can pulmonary infiltration be observed on the upper right lung in this picture?The Answer is:","No, it cannot be observed. ",No
+xmlab338/source.jpg,"Think step by step, answer the Question: Which plane is the image scanned, transverse plane or coronal plane?The Answer is:",transverse plane ,Coronal Plane
+xmlab338/source.jpg,"Think step by step, answer the Question: Is the lung normal appearing?The Answer is:","Yes, ",No
+xmlab338/source.jpg,"Think step by step, answer the Question: Is this image normal?The Answer is:","No, it is not normal. ",No
+xmlab338/source.jpg,"Think step by step, answer the Question: Can nodule be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab344/source.jpg,"Think step by step, answer the Question: Which plane is the image scanned, transverse plane or coronal plane?The Answer is:",transverse plane ,Coronal Plane
+xmlab344/source.jpg,"Think step by step, answer the Question: Does the patient have any abnormalities?The Answer is:","No, the patient has no abnormalities. ",Yes
+xmlab344/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab344/source.jpg,"Think step by step, answer the Question: Can nodule be observed on the upper right lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab350/source.jpg,"Think step by step, answer the Question: Is this an MRI scan?The Answer is:","No, it is a chest X-ray. ",No
+xmlab350/source.jpg,"Think step by step, answer the Question: Is this a coronal plane?The Answer is:","No, it is a transverse plane. ",Yes
+xmlab350/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the chest?The Answer is:","Yes, the organs in the image exist in the chest. ",Yes
+xmlab350/source.jpg,"Think step by step, answer the Question: Is the lung normal appearing?The Answer is:","Yes, ",No
+xmlab350/source.jpg,"Think step by step, answer the Question: Is/Are there abnormalities in the patient's left lung?The Answer is:","Yes, there are abnormalities in the patient's left lung. ",Yes
+xmlab350/source.jpg,"Think step by step, answer the Question: Can pneumothorax be observed on the lower right lung in this picture?The Answer is:","No, it cannot be observed. ",No
+xmlab357/source.jpg,"Think step by step, answer the Question: Is this a X-Ray?The Answer is:","No, it is not a X-Ray. ",Yes
+xmlab357/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the abdomen?The Answer is:","Yes, the organs in the image exist in the abdomen. ",No
+xmlab357/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab357/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab357/source.jpg,"Think step by step, answer the Question: Can pneumothorax be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab361/source.jpg,"Think step by step, answer the Question: Is this image taken via X-Ray?The Answer is:","No, it is not taken via X-Ray. ",Yes
+xmlab361/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab361/source.jpg,"Think step by step, answer the Question: Is the lung abnormal?The Answer is:","No, the lung is normal. ",Yes
+xmlab361/source.jpg,"Think step by step, answer the Question: Can nodule be observed on the lower right lung in this picture?The Answer is:","No, it cannot be observed. ",No
+xmlab367/source.jpg,"Think step by step, answer the Question: Is this image taken via X-Ray?The Answer is:","No, it is not taken via X-Ray. ",Yes
+xmlab367/source.jpg,"Think step by step, answer the Question: Which side of lung is abnormal in this image,left or right?The Answer is:",Left ,Left
+xmlab367/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab367/source.jpg,"Think step by step, answer the Question: Is the lung healthy?The Answer is:","Yes, ",No
+xmlab367/source.jpg,"Think step by step, answer the Question: Can pneumonia be observed on the upper right lung in this picture?The Answer is:","No, it cannot be observed on the upper right lung in this picture. ",No
+xmlab374/source.jpg,"Think step by step, answer the Question: Is this a coronal plane?The Answer is:","No, it is a transverse plane. ",Yes
+xmlab374/source.jpg,"Think step by step, answer the Question: Is this a study of the neck?The Answer is:","Yes, ",No
+xmlab374/source.jpg,"Think step by step, answer the Question: Does the lung look abnormal?The Answer is:","No, it looks normal. ",Yes
+xmlab374/source.jpg,"Think step by step, answer the Question: Are there abnormalities in this image?The Answer is:","No, there are no abnormalities. ",Yes
+xmlab374/source.jpg,"Think step by step, answer the Question: Can pneumonia be observed on the upper right lung in this picture?The Answer is:","No, it cannot be observed on the upper right lung in this picture. ",Yes
+xmlab375/source.jpg,"Think step by step, answer the Question: Is this a transverse section?The Answer is:","No, it is a lateral section. ",No
+xmlab375/source.jpg,"Think step by step, answer the Question: Is this a study of the chest?The Answer is:",Yes ,Yes
+xmlab375/source.jpg,"Think step by step, answer the Question: Is the lung normal appearing?The Answer is:","Yes, ",No
+xmlab375/source.jpg,"Think step by step, answer the Question: Can pneumonia be observed on the lower right lung in this picture?The Answer is:","No, it cannot be observed on the lower right lung in this picture. ",Yes
+xmlab378/source.jpg,"Think step by step, answer the Question: Is this image taken via CT?The Answer is:","No, it is not taken via CT. ",No
+xmlab378/source.jpg,"Think step by step, answer the Question: Is this a transverse plane?The Answer is:","No, it is a transverse plane. ",No
+xmlab378/source.jpg,"Think step by step, answer the Question: Is/Are there abnormalities in the patient's left lung?The Answer is:","Yes, there are abnormalities in the patient's left lung. ",Yes
+xmlab378/source.jpg,"Think step by step, answer the Question: Can infiltration be observed on the lower left lung in this picture?The Answer is:","Yes, it can be observed. ",Yes
+xmlab385/source.jpg,"Think step by step, answer the Question: Is this image taken via X-Ray?The Answer is:","No, it is not taken via X-Ray. ",Yes
+xmlab385/source.jpg,"Think step by step, answer the Question: Is this a coronal section?The Answer is:","No, it is a transverse section. ",Yes
+xmlab385/source.jpg,"Think step by step, answer the Question: Is this a study of the head?The Answer is:","Yes, ",No
+xmlab385/source.jpg,"Think step by step, answer the Question: Does the patient have any abnormalities?The Answer is:","No, the patient has no abnormalities. ",Yes
+xmlab385/source.jpg,"Think step by step, answer the Question: Does the lung look abnormal?The Answer is:","No, it looks normal. ",Yes
+xmlab385/source.jpg,"Think step by step, answer the Question: Can effusion be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab386/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the chest?The Answer is:","Yes, ",Yes
+xmlab386/source.jpg,"Think step by step, answer the Question: Is this a study of the abdomen?The Answer is:","No, it is a chest X-ray. ",No
+xmlab386/source.jpg,"Think step by step, answer the Question: Is this a study of the pelvic cavity?The Answer is:","No, it is not a study of the pelvic cavity. ",No
+xmlab386/source.jpg,"Think step by step, answer the Question: Is this image normal?The Answer is:","No, it is not normal. ",No
+xmlab386/source.jpg,"Think step by step, answer the Question: Can effusion be observed on the lower left lung in this picture?The Answer is:","No, it cannot be observed. ",Yes
+xmlab401/source.jpg,"Think step by step, answer the Question: Which type of modality is shown about this image, MRI, CT or X-Ray?The Answer is:",CT ,CT
+xmlab401/source.jpg,"Think step by step, answer the Question: Is this sagittal plane?The Answer is:","No, it is not sagittal plane. ",No
+xmlab401/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the head?The Answer is:","Yes, 100% ",Yes
+xmlab401/source.jpg,"Think step by step, answer the Question: Is this a study of the abdomen?The Answer is:","No, it is a study of the brain. ",No
+xmlab401/source.jpg,"Think step by step, answer the Question: Does the picture contain spleen?The Answer is:","No, it does not contain spleen. ",No
+xmlab401/source.jpg,"Think step by step, answer the Question: Does the temporal lobe appear in this image?The Answer is:","No, it does not appear in this image. ",Yes
+xmlab401/source.jpg,"Think step by step, answer the Question: Are there some organs controlling heartbeat and breathing in this image?The Answer is:","No, there are no organs controlling heartbeat and breathing in this image. ",Yes
+xmlab401/source.jpg,"Think step by step, answer the Question: Do any of the organs in the picture belong to the respiratory system?The Answer is:",None of the organs in the picture belong to the respiratory system. ,No
+xmlab405/source.jpg,"Think step by step, answer the Question: Is this a CT?The Answer is:","No, it is not a CT. ",Yes
+xmlab405/source.jpg,"Think step by step, answer the Question: Is this sagittal plane?The Answer is:","No, it is not sagittal plane. ",No
+xmlab405/source.jpg,"Think step by step, answer the Question: Does the ears exist in this picture?The Answer is:","No, it does not exist in this picture. ",Yes
+xmlab405/source.jpg,"Think step by step, answer the Question: Does the picture contain bladder?The Answer is:",No ,No
+xmlab405/source.jpg,"Think step by step, answer the Question: Does the picture contain the organ which has the effect of storing urine?The Answer is:","No, it does not contain the organ which has the effect of storing urine. ",No
+xmlab405/source.jpg,"Think step by step, answer the Question: Do any of the organs in the picture belong to the digestive system?The Answer is:","No, 10.00% ",No
+xmlab407/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the head?The Answer is:","Yes, 100% ",Yes
+xmlab407/source.jpg,"Think step by step, answer the Question: Is this a study of the abdomen?The Answer is:","No, it is not a study of the abdomen. ",No
+xmlab407/source.jpg,"Think step by step, answer the Question: Does the picture contain mandible?The Answer is:","No, it does not contain mandible. ",Yes
+xmlab407/source.jpg,"Think step by step, answer the Question: Does the parotid appear in the image?The Answer is:","No, it does not appear in the image. ",Yes
+xmlab407/source.jpg,"Think step by step, answer the Question: Are there organs in the picture that can digest food?The Answer is:","No, there are no organs in the picture that can digest food. ",No
+xmlab407/source.jpg,"Think step by step, answer the Question: Do any of the organs in the picture belong to the circulatory system?The Answer is:","No, 10.00% ",No
+xmlab427/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the head?The Answer is:","Yes, 100% ",No
+xmlab427/source.jpg,"Think step by step, answer the Question: Is there an esophagus in this image?The Answer is:","No, there is no esophagus in this image. ",No
+xmlab427/source.jpg,"Think step by step, answer the Question: Does the trachea exist in this picture?The Answer is:","No, it does not exist. ",No
+xmlab427/source.jpg,"Think step by step, answer the Question: Are there organs in the picture that can deliver food?The Answer is:",No ,Yes
+xmlab427/source.jpg,"Think step by step, answer the Question: Does the picture contain the organ which has the effect of gas delivery?The Answer is:",No ,Yes
+xmlab428/source.jpg,"Think step by step, answer the Question: Is this a CT?The Answer is:","No, it is not a CT. ",Yes
+xmlab428/source.jpg,"Think step by step, answer the Question: Does the ears exist in this picture?The Answer is:","No, it does not exist in this picture. ",No
+xmlab428/source.jpg,"Think step by step, answer the Question: Is there small bowel in this image?The Answer is:","No, there is no small bowel in this image. ",No
+xmlab428/source.jpg,"Think step by step, answer the Question: Do any of the organs in the picture belong to the nervous system?The Answer is:","No, 1000 μm, 1000 μm 	= 1000 μm, 1000 μm 	= 1000 μm",Yes
+xmlab428/source.jpg,"Think step by step, answer the Question: Does the picture contain the organ that could be used for detoxicating?The Answer is:",No ,No
+xmlab429/source.jpg,"Think step by step, answer the Question: Is this an MRI scan?The Answer is:","No, it is not an MRI scan. ",No
+xmlab429/source.jpg,"Think step by step, answer the Question: Is this a transverse section?The Answer is:","No, it is not a transverse section. ",Yes
+xmlab429/source.jpg,"Think step by step, answer the Question: Does the picture contain spinal cord?The Answer is:","No, it does not contain spinal cord. ",Yes
+xmlab429/source.jpg,"Think step by step, answer the Question: Are/Is there kidneys in the picture?The Answer is:","No, there are no kidneys in the picture. ",No
+xmlab429/source.jpg,"Think step by step, answer the Question: Does the picture contain the organ which has the effect of discharging waste?The Answer is:","No, it does not contain the organ which has the effect of discharging waste. ",No
+xmlab429/source.jpg,"Think step by step, answer the Question: Do any of the organs in the picture belong to the nervous system?The Answer is:","No, 10.00% ",Yes
+xmlab436/source.jpg,"Think step by step, answer the Question: Is this a CT scan?The Answer is:","No, it is a MRI scan. ",No
+xmlab436/source.jpg,"Think step by step, answer the Question: Which kind of weighting is this image generated with, t1 or t2?The Answer is:",t1 ,T2
+xmlab436/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the head?The Answer is:","Yes, ",Yes
+xmlab436/source.jpg,"Think step by step, answer the Question: Which hemisphere is abnormal,left or right?The Answer is:","Left 
+",Right
+xmlab442/source.jpg,"Think step by step, answer the Question: Is this an MRI image with T1 weighted?The Answer is:","No, it is not an MRI image. ",No
+xmlab442/source.jpg,"Think step by step, answer the Question: Is this a coronal section?The Answer is:","No, it is not a coronal section. ",No
+xmlab442/source.jpg,"Think step by step, answer the Question: Is the brain healthy?The Answer is:","No, the brain is not healthy. ",No
+xmlab447/source.jpg,"Think step by step, answer the Question: Which kind of weighting is this image generated with, t1 or t2?The Answer is:",t1 ,T2
+xmlab447/source.jpg,"Think step by step, answer the Question: Is this sagittal plane?The Answer is:","No, it is not sagittal plane. ",No
+xmlab447/source.jpg,"Think step by step, answer the Question: Which hemisphere is abnormal,left or right?The Answer is:",Left ,Left
+xmlab447/source.jpg,"Think step by step, answer the Question: Is the tumor enhancing?The Answer is:",No ,Yes
+xmlab468/source.jpg,"Think step by step, answer the Question: Is this an MRI image with T1 weighted?The Answer is:","No, it is not an MRI image. ",No
+xmlab468/source.jpg,"Think step by step, answer the Question: Do the organs in the image exist in the chest?The Answer is:","Yes, 100% ",No
+xmlab468/source.jpg,"Think step by step, answer the Question: Is this a study of the head?The Answer is:","Yes 
+",Yes
+xmlab468/source.jpg,"Think step by step, answer the Question: Is the brain abnormal?The Answer is:","Yes 
+",Yes

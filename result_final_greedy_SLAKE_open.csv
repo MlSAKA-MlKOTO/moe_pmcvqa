@@ -1,0 +1,646 @@
+Figure_path,Question,Pred,Label
+xmlab102/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab102/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab102/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,"Lung, Spinal Cord"
+xmlab102/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Lung ,Lung
+xmlab102/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,Lung Cancer
+xmlab102/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,"Left Lung, Right"
+xmlab103/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab103/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab103/source.jpg,Question: What is the main organ in the image?The Answer is:, Liver ,Lung
+xmlab103/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Lung
+xmlab103/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Lung Cancer
+xmlab103/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Left Lung, Right"
+xmlab105/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab105/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab105/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,Lung
+xmlab105/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Lung
+xmlab105/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,Lung Cancer
+xmlab105/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Right Lung, Left"
+xmlab124/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab124/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab124/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab124/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Cardiomegaly
+xmlab124/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,Center
+xmlab13/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab13/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab13/source.jpg,Question: What is the mr weighting in this image?The Answer is:,T2 weighting ,T2
+xmlab130/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab130/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab130/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab130/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,Pneumonia
+xmlab130/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Left Lung, Lower Right"
+xmlab135/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab135/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab135/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab135/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Cardiomegaly
+xmlab135/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,Center
+xmlab142/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab142/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab142/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab142/source.jpg,Question: What diseases are included in the picture?The Answer is:, Pneumonia and tuberculosis ,Cardiomegaly
+xmlab142/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,Center
+xmlab147/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab147/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab147/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab147/source.jpg,Question: What diseases are included in the picture?The Answer is:, Pneumonia and tuberculosis ,"Atelectasis, Mass"
+xmlab147/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,Right Lung
+xmlab148/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab148/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab148/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab148/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,Cardiomegaly
+xmlab148/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,Center
+xmlab152/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab152/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab152/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab152/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung diseases ,Cardiomegaly
+xmlab152/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,Center
+xmlab159/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab159/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab159/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab159/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Nodule
+xmlab159/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Left Lung, Right"
+xmlab160/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab160/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab160/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab160/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,Nodule
+xmlab160/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,"Right Lung, Left"
+xmlab169/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab169/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab169/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab169/source.jpg,Question: What diseases are included in the picture?The Answer is:, Pneumonia and tuberculosis ,Atelectasis
+xmlab169/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lower lobe ,"Right Lung, Lower Left"
+xmlab173/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab173/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab173/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab173/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Pneumonia
+xmlab173/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Left Lung, Right"
+xmlab18/source.jpg,Question: What modality is used to take this image?The Answer is:,MRI ,MRI
+xmlab18/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab18/source.jpg,Question: What is the mr weighting in this image?The Answer is:,T2-weighted ,T2
+xmlab18/source.jpg,Question: How many kidneys are there in this image?The Answer is:, Two ,1
+xmlab18/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab185/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab185/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab185/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Heart ,Lung
+xmlab185/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Pneumothorax
+xmlab185/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,"Right Lung, Left"
+xmlab208/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab208/source.jpg,Question: Which part of the body does this image belong to?The Answer is:,Abdomen ,Abdomen
+xmlab208/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab208/source.jpg,Question: Where is the liver?The Answer is:, Right ,Left
+xmlab208/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,2
+xmlab208/source.jpg,Question: What is the organ located in the lower right corner of the body in this image?The Answer is:, Kidney ,Left Kidney
+xmlab208/source.jpg,Question: What is the organ on the left side of this image?The Answer is:, Liver ,Liver
+xmlab208/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab219/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab219/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Abdomen
+xmlab219/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,4
+xmlab219/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Lung
+xmlab219/source.jpg,Question: Where is the liver?The Answer is:, Right side ,Top
+xmlab219/source.jpg,Question: What is the rightmost organ in this image?The Answer is:,Liver ,Left Lung
+xmlab219/source.jpg,Question: What is the organ on the left side of this image?The Answer is:, Liver ,Right Lung
+xmlab219/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab224/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab224/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab224/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab224/source.jpg,Question: Where is the liver?The Answer is:, Right ,Left
+xmlab224/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,0
+xmlab224/source.jpg,Question: What is the organ on the left side of this image?The Answer is:, Liver ,Liver
+xmlab224/source.jpg,Question: What is the organ on the lower right corner of the body in this image?The Answer is:, Liver ,Spleen
+xmlab224/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab234/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab234/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab234/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab234/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and diabetes ,Liver Cancer
+xmlab234/source.jpg,Question: Where is the liver?The Answer is:, Right ,Left and top
+xmlab234/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Left kidney ,Liver
+xmlab234/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,0
+xmlab234/source.jpg,Question: What is the organ on the left side of this image?The Answer is:, Liver ,Liver
+xmlab234/source.jpg,Question: What is the rightmost organ in this image?The Answer is:, Liver ,Spleen
+xmlab234/source.jpg,Question: What is the organ on the top of the body in this image?The Answer is:, Liver ,Liver
+xmlab234/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab235/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab235/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab235/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab235/source.jpg,Question: Where is the liver?The Answer is:, Right ,Left and top
+xmlab235/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Left kidney ,Liver
+xmlab235/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,2
+xmlab235/source.jpg,Question: What is the organ on the lower right corner of this image?The Answer is:, Liver ,Spleen
+xmlab235/source.jpg,Question: What is the organ on the top of the body in this image?The Answer is:, Liver ,Liver
+xmlab235/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab24/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab24/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab24/source.jpg,Question: What is the mr weighting in this image?The Answer is:,T2-weighted ,T1
+xmlab24/source.jpg,Question: How many kidneys are there in this image?The Answer is:, Two ,0
+xmlab25/source.jpg,Question: What modality is used to take this image?The Answer is:,MRI ,MRI
+xmlab25/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab25/source.jpg,Question: What is the mr weighting in this image?The Answer is:,T2-weighted ,T1
+xmlab25/source.jpg,Question: Where is the liver?The Answer is:, Right side ,Not seen
+xmlab25/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,0
+xmlab25/source.jpg,Question: What is the organ on the left side of this image?The Answer is:, Liver ,Lung
+xmlab250/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab250/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Abdomen
+xmlab250/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Lung
+xmlab250/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Liver Cancer
+xmlab250/source.jpg,Question: Where is the liver?The Answer is:, Right side of the abdomen ,Upper Left
+xmlab250/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right lung ,Liver
+xmlab250/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,0
+xmlab250/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab250/source.jpg,Question: What organ is the black part on the left of the image?The Answer is:, Liver ,Right Lung
+xmlab250/source.jpg,Question: What is the organ on the top of the body in this image?The Answer is:, Lung ,Heart and Liver
+xmlab250/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Axial ,Transverse  Plane
+xmlab250/source.jpg,Question: What are the white points in the black part of the body?The Answer is:, Bones ,Pulmonary bronchus
+xmlab250/source.jpg,Question: Which is the kidney?The Answer is:, Right ,Symmetrical to the bone marrow
+xmlab252/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab252/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab252/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab252/source.jpg,Question: What diseases are included in the picture?The Answer is:, Liver and kidney diseases ,Liver Cancer
+xmlab252/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right kidney ,Liver
+xmlab252/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,2
+xmlab252/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab252/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab252/source.jpg,Question: What is the shape of the kidney in the picture?The Answer is:, Oval ,Irregular
+xmlab252/source.jpg,Question: Which is the kidney?The Answer is:, Right ,Symmetrical to the bone marrow
+xmlab253/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab253/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab253/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab253/source.jpg,Question: Where is the liver?The Answer is:, Right ,Left
+xmlab253/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab253/source.jpg,Question: What organ is the black part on the left of the image?The Answer is:, Liver ,Right Lung
+xmlab253/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Axial ,Transverse  Plane
+xmlab253/source.jpg,Question: What are the white spots in the black part of the lower part of body?The Answer is:, Bones ,Pulmonary bronchus
+xmlab264/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab264/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab264/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Small Bowel
+xmlab264/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,2
+xmlab264/source.jpg,Question: What is the rightmost organ in this image?The Answer is:, Liver ,Large Bowel
+xmlab264/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Large Bowel
+xmlab264/source.jpg,Question: What is the organ on the top of the body in this image?The Answer is:, Liver ,Small Bowel
+xmlab264/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab264/source.jpg,Question: Which is the kidney?The Answer is:, Right ,Symmetrical to the bone marrow
+xmlab269/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab269/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab269/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab269/source.jpg,Question: What is the rightmost organ in this image?The Answer is:,Liver ,Large Bowel
+xmlab269/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab269/source.jpg,Question: What organ is the black part on the left of the image?The Answer is:, Liver ,Right Lung
+xmlab269/source.jpg,Question: What is the organ on the top of the body in this image?The Answer is:, Liver ,Stomach
+xmlab269/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab269/source.jpg,Question: What organ is the black hole in the upper right corner?The Answer is:, Liver ,Large Bowel
+xmlab274/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab274/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Abdomen
+xmlab274/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Liver
+xmlab274/source.jpg,Question: How many kidneys in this image?The Answer is:, Two ,0
+xmlab274/source.jpg,Question: What is the rightmost organ in this image?The Answer is:, Liver ,Large Bowel
+xmlab274/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab274/source.jpg,Question: What organ is the black part on the left of the image?The Answer is:, Liver ,Right Lung
+xmlab274/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse  Plane
+xmlab274/source.jpg,Question: What organ is the black hole in the upper right corner?The Answer is:, Liver ,Large Bowel
+xmlab299/source.jpg,Question: What type of medical image is this?The Answer is:,X-ray ,X-Ray
+xmlab299/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Transverse plane ,Coronal Plane
+xmlab299/source.jpg,Question: Which part do the organs in this image locate from the aspect of the whole body?The Answer is:, Chest ,Chest
+xmlab299/source.jpg,Question: What part of the lung is the pneumothorax located in?The Answer is:, Right lower lobe ,Upper Right Lung
+xmlab299/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab299/source.jpg,Question: Which organs appear in pairs?The Answer is:, Lungs ,Lung
+xmlab299/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Blue ,Black
+xmlab299/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab299/source.jpg,Question: What is the effect of the main organ in this picture?The Answer is:, Decrease ,Breathe
+xmlab299/source.jpg,Question: What kind of symptoms will the disease on the upper right of lung bring to the patient?The Answer is:, Cough ,"Chest pain, dyspnea"
+xmlab299/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab304/source.jpg,Question: What imaging modality was used?The Answer is:,X-ray ,X-Ray
+xmlab304/source.jpg,Question: Which part of the human body is the organ located in the image?The Answer is:, Lungs ,Chest
+xmlab304/source.jpg,Question: Where is the abnormality in this image?The Answer is:,Right lower lobe ,Lower Right Lung
+xmlab304/source.jpg,Question: Where is the atelectasis in this image?The Answer is:,Right lower lobe ,Lower Right Lung
+xmlab304/source.jpg,Question: What is the organ system visualized?The Answer is:, Respiratory system ,Chest
+xmlab304/source.jpg,Question: What disease is/are shown on the right of lung?The Answer is:, Pneumonia ,Atelectasis
+xmlab304/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Blue ,Black
+xmlab304/source.jpg,Question: How many existing lungs in this image?The Answer is:,2 ,2
+xmlab304/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab304/source.jpg,Question: What is the main cause of the disease on the lower right of the lung in the picture?The Answer is:, Pneumonia ,Bronchial obstruction
+xmlab304/source.jpg,Question: Which organs/organ in the picture belong to the circulatory system?The Answer is:, Heart and lungs ,Heart
+xmlab311/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab311/source.jpg,Question: Where is the mass in this image?The Answer is:, Right lower lobe ,Lower Left Lung
+xmlab311/source.jpg,Question: What disease is/are shown on the left of lung?The Answer is:, Pneumonia ,Pulmonary Mass
+xmlab311/source.jpg,Question: What color is the lung in the picture?The Answer is:, Yellow ,Black
+xmlab311/source.jpg,Question: How many existing heart in this image?The Answer is:, Two ,1
+xmlab311/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,A Little
+xmlab311/source.jpg,Question: How to prevent the occurrence of the disease on the lower left lobe of lung in this image?The Answer is:, To avoid smoking ,Keep healthy
+xmlab311/source.jpg,Question: Which organs/organ in the picture belong to the circulatory system?The Answer is:, Heart and lungs ,Heart
+xmlab312/source.jpg,Question: What type of medical image is this?The Answer is:,X-ray ,X-Ray
+xmlab312/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab312/source.jpg,Question: Where is the abnormality in this image?The Answer is:,Right lower lobe ,Lower Left Lung
+xmlab312/source.jpg,Question: Where is the atelectasis in this image?The Answer is:,Right lower lobe ,Lower Left Lung
+xmlab312/source.jpg,Question: What is the main organ in the image?The Answer is:, Lungs ,Lung
+xmlab312/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab312/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab312/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,A Little
+xmlab312/source.jpg,Question: How to treat the disease located on the left of lung in this image?The Answer is:, Surgery ,"Physical therapy, surgical treatment"
+xmlab312/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab314/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Transverse plane ,Coronal Plane
+xmlab314/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab314/source.jpg,Question: Where is the pneumonia in the lung?The Answer is:,Right lower lobe ,Right Lung
+xmlab314/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Chest
+xmlab314/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Chest
+xmlab314/source.jpg,Question: What disease is/are shown on the right of lung?The Answer is:, Pneumonia ,Pneumonia
+xmlab314/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab314/source.jpg,Question: How many existing lungs in this image?The Answer is:,2 ,2
+xmlab314/source.jpg,Question: What can the organ with black color in this image be used for?The Answer is:, To measure the size of the heart ,Breathe
+xmlab314/source.jpg,Question: How to treat the disease located on the right of lung in this image?The Answer is:, Surgery ,"Medical therapy, supportive therapy"
+xmlab314/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab320/source.jpg,Question: What modality is shown in this image?The Answer is:,X-ray ,X-Ray
+xmlab320/source.jpg,Question: Where is the abnormality in this image?The Answer is:,Right lower lobe ,Heart
+xmlab320/source.jpg,Question: Where is the cardiomegaly in this image?The Answer is:, Right lower zone ,Heart
+xmlab320/source.jpg,Question: Which organs appear in pairs?The Answer is:, Lungs ,Lung
+xmlab320/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab320/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Cardiomegaly
+xmlab320/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Blue ,Black
+xmlab320/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,2
+xmlab320/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab320/source.jpg,Question: What kind of symptoms will the disease on the heart in this image bring to the patient?The Answer is:, Chest pain ,"Chest tightness, arrhythmia"
+xmlab320/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab329/source.jpg,Question: What type of medical image is this?The Answer is:,X-ray ,X-Ray
+xmlab329/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab329/source.jpg,Question: Which lobe is abnormal in this image?The Answer is:,Left upper lobe ,Left
+xmlab329/source.jpg,Question: Where is the pulmonary infiltration in this image?The Answer is:,Right lower lobe ,Lower Left Lung
+xmlab329/source.jpg,Question: What organ system is pictured?The Answer is:,Respiratory system ,Chest
+xmlab329/source.jpg,Question: What organ system is primarily present in this image?The Answer is:,Respiratory system ,Chest
+xmlab329/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Pulmonary Infiltration
+xmlab329/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Blue ,Black
+xmlab329/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,2
+xmlab329/source.jpg,Question: What is the effect of the main organ in this picture?The Answer is:, Decrease in size ,Breathe
+xmlab329/source.jpg,Question: How to prevent the occurrence of the disease on the lower left lobe of lung in this image?The Answer is:, To avoid smoking ,"Live healthy, enhance physical fitness"
+xmlab329/source.jpg,Question: Which organs/organ is part of the respiratory system in this image?The Answer is:, Lungs ,Lung
+xmlab338/source.jpg,Question: What imaging modality was used?The Answer is:,X-ray ,X-Ray
+xmlab338/source.jpg,Question: Which part do the organs in this image locate from the aspect of the whole body?The Answer is:, Chest ,Chest
+xmlab338/source.jpg,Question: Where is the abnormality in this image?The Answer is:,Right lower lung zone ,Lower Left Lung
+xmlab338/source.jpg,Question: Where is the pulmonary nodule located in this image?The Answer is:,Right lower lobe ,Lower Left Lung
+xmlab338/source.jpg,Question: What is the organ system visualized?The Answer is:, Respiratory system ,Chest
+xmlab338/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab338/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab338/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab338/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab338/source.jpg,Question: How to treat the disease located on the lower left of lung in this image?The Answer is:, Surgery ,"Medical treatment, surgical treatment"
+xmlab338/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab344/source.jpg,Question: What imaging modality was used?The Answer is:,X-ray ,X-Ray
+xmlab344/source.jpg,Question: Which part of the human body is the organ located in the image?The Answer is:, Lungs ,Chest
+xmlab344/source.jpg,Question: Where is/are the abnormality located in this picture?The Answer is:, Right lung ,Upper Right Lung
+xmlab344/source.jpg,Question: Where is the nodule in this image?The Answer is:,Right upper lobe ,Upper Right Lung
+xmlab344/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab344/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Chest
+xmlab344/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab344/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab344/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab344/source.jpg,Question: What kind of symptoms will the disease on the upper right lung bring to the patient?The Answer is:, Cough ,"Chest tightness, fatigue"
+xmlab344/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab350/source.jpg,Question: Where is the abnormality in this image?The Answer is:,Right lower lobe ,Upper Left Lung
+xmlab350/source.jpg,Question: What part of the lung is the pneumothorax located in?The Answer is:, Right upper lobe ,Upper Left Lung
+xmlab350/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Chest
+xmlab350/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab350/source.jpg,Question: What color is the lung in the picture?The Answer is:, Yellow ,Black
+xmlab350/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,2
+xmlab350/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,A Little
+xmlab350/source.jpg,Question: How to treat the disease located on the upper left of lung in this image?The Answer is:, Surgery ,"Medical therapy, supportive therapy"
+xmlab350/source.jpg,Question: Which organs/organ in the picture belong to the circulatory system?The Answer is:, Heart and lungs ,Heart
+xmlab357/source.jpg,Question: What scanning plane does this image belong to?The Answer is:, Transverse plane ,Coronal Plane
+xmlab357/source.jpg,Question: Where is the abnormality in this image?The Answer is:, Right lower lobe ,Lower Left Lung
+xmlab357/source.jpg,Question: Where is the pneumothorax in this image?The Answer is:,Right side ,Lower Left Lung
+xmlab357/source.jpg,Question: What organ system is pictured?The Answer is:,Respiratory system ,Chest
+xmlab357/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab357/source.jpg,Question: What color is the lung in the picture?The Answer is:, Yellow ,Black
+xmlab357/source.jpg,Question: How many existing heart in this image?The Answer is:, Two ,1
+xmlab357/source.jpg,Question: What is the effect of the center organ in this picture?The Answer is:, It is not visible ,Promote blood flow
+xmlab357/source.jpg,Question: What is the main cause of the disease on the lower left of the lung in the picture?The Answer is:, Pneumonia ,"Chest injury, lung disease, bullae"
+xmlab357/source.jpg,Question: Which organs/organ in the picture belong to the circulatory system?The Answer is:, Heart and lungs ,Heart
+xmlab361/source.jpg,Question: In what plane is this image scanned?The Answer is:, Sagittal ,Coronal Plane
+xmlab361/source.jpg,Question: Which part of the human body is the organ located in the image?The Answer is:, Lungs ,Chest
+xmlab361/source.jpg,Question: Where is the abnormality in this image?The Answer is:, Right lower lobe ,Left Lung
+xmlab361/source.jpg,Question: Where is/are the nodule located in this image?The Answer is:, Right upper lobe ,Left Lung
+xmlab361/source.jpg,Question: What is the main organ in the image?The Answer is:, Lungs ,Lung
+xmlab361/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Chest
+xmlab361/source.jpg,Question: What color is the lung in the picture?The Answer is:, Yellow ,Black
+xmlab361/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,2
+xmlab361/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab361/source.jpg,Question: How to prevent the occurrence of the disease on the left lobe of lung in this image?The Answer is:, To avoid the occurrence of the disease on the left lobe of lung. ,"Quit smoking, enhance physical fitness"
+xmlab361/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab367/source.jpg,Question: What scanning plane does this image belong to?The Answer is:, Transverse plane ,Coronal Plane
+xmlab367/source.jpg,Question: Where does the picture show?The Answer is:, Chest ,Chest
+xmlab367/source.jpg,Question: What part of the lung is the pneumonia located in?The Answer is:, Right lower lobe ,Lower Left Lung
+xmlab367/source.jpg,Question: What is the organ system visualized?The Answer is:, Respiratory system ,Chest
+xmlab367/source.jpg,Question: Which organs appear in pairs?The Answer is:, Lungs ,Lung
+xmlab367/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab367/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab367/source.jpg,Question: What is the effect of the center organ in this picture?The Answer is:, It is not visible ,Promote blood flow
+xmlab367/source.jpg,Question: How to treat the disease located on the lower left of lung in this image?The Answer is:, Surgery ,"Medical therapy, supportive therapy"
+xmlab367/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab374/source.jpg,Question: What type of medical image is this?The Answer is:,X-ray ,X-Ray
+xmlab374/source.jpg,Question: Which part do the organs in this image locate from the aspect of the whole body?The Answer is:, The heart ,Chest
+xmlab374/source.jpg,Question: Where is the abnormality in this image?The Answer is:, Right lower lobe ,Upper Right Lung
+xmlab374/source.jpg,Question: What part of the lung is the pneumonia located in?The Answer is:, Right lower lobe ,Upper Right Lung
+xmlab374/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab374/source.jpg,Question: What color is the lung in the picture?The Answer is:, Blue ,Black
+xmlab374/source.jpg,Question: How many existing heart in this image?The Answer is:, Two ,1
+xmlab374/source.jpg,Question: What is the function of the main organ in this picture?The Answer is:, Breathing ,Breathe
+xmlab374/source.jpg,Question: How to prevent the occurrence of the disease on the upper right lobe of lung in this image?The Answer is:, To avoid exposure to the virus ,"Pay attention to prevent cold and keep warm, enhance physical fitness"
+xmlab374/source.jpg,Question: Which organs/organ is part of the respiratory system in this image?The Answer is:, Lungs ,Lung
+xmlab375/source.jpg,Question: How was this image taken?The Answer is:, X-ray ,X-Ray
+xmlab375/source.jpg,Question: Where does the picture show?The Answer is:, Chest ,Chest
+xmlab375/source.jpg,Question: Which side of lung is abnormal in this image?The Answer is:, Right ,Right
+xmlab375/source.jpg,Question: Where is the pneumonia in the lung?The Answer is:,Right lower lobe ,Lower Right Lung
+xmlab375/source.jpg,Question: What is the organ system visualized?The Answer is:, Respiratory system ,Chest
+xmlab375/source.jpg,Question: What disease is/are shown on the right of lung?The Answer is:, Pneumonia ,Pneumonia
+xmlab375/source.jpg,Question: What color does the right lung show in the picture?The Answer is:, Blue ,Black
+xmlab375/source.jpg,Question: How many existing lungs in this image?The Answer is:,2 ,2
+xmlab375/source.jpg,Question: What is the effect of the center organ in this picture?The Answer is:, It is not visible ,Promote blood flow
+xmlab375/source.jpg,Question: How to prevent the occurrence of the disease on the lower right lobe of lung in this image?The Answer is:, To avoid smoking ,"Pay attention to prevent cold and keep warm, enhance physical fitness"
+xmlab375/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab378/source.jpg,Question: Where does the picture show?The Answer is:, Chest ,Chest
+xmlab378/source.jpg,Question: Which side of lung is abnormal in this image?The Answer is:, Right ,Left
+xmlab378/source.jpg,Question: What part of the lung is the infiltration located in?The Answer is:, Right lower lobe ,Lower Left Lung
+xmlab378/source.jpg,Question: Which organs appear in pairs?The Answer is:, Lungs ,Lung
+xmlab378/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,Lung
+xmlab378/source.jpg,Question: What disease is/are shown on the lower left of lung?The Answer is:, Pneumonia ,Pulmonary Infiltration
+xmlab378/source.jpg,Question: What color is the lung in the picture?The Answer is:, Yellow ,Black
+xmlab378/source.jpg,Question: How many existing lungs in this image?The Answer is:,2 ,2
+xmlab378/source.jpg,Question: What can the organ with black color in this image be used for?The Answer is:, Diagnosis ,Breathe
+xmlab378/source.jpg,Question: What kind of symptoms will the disease on the lower left of lung bring to the patient?The Answer is:, Cough ,"Chest pain, cough, expectoration"
+xmlab378/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab385/source.jpg,Question: Where does the image represent in the body?The Answer is:, Chest ,Chest
+xmlab385/source.jpg,Question: Which part of chest is abnormal in this image?The Answer is:, Right lung ,Lower Left Lung
+xmlab385/source.jpg,Question: Where is/are the effusion located?The Answer is:, Right lower lobe ,Lower Left Lung
+xmlab385/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Chest
+xmlab385/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Blue ,Black
+xmlab385/source.jpg,Question: How many lungs are shown in this image?The Answer is:, Two ,2
+xmlab385/source.jpg,Question: What can the organ with black color in this image be used for?The Answer is:, Diagnosis ,Breathe
+xmlab385/source.jpg,Question: What is the main cause of the disease on the lower left of the lung in the picture?The Answer is:, Tuberculosis ,"Inflammation, malignant tumor, trauma, etc"
+xmlab385/source.jpg,Question: Which organs/organ is part of the circulatory system in this image?The Answer is:, Heart ,Heart
+xmlab386/source.jpg,Question: What modality is used to take this image?The Answer is:,X-ray ,X-Ray
+xmlab386/source.jpg,Question: What scanning plane does this image belong to?The Answer is:, Transverse plane ,Coronal Plane
+xmlab386/source.jpg,Question: Where is the heart in this image?The Answer is:, Right ,Center
+xmlab386/source.jpg,Question: Where is the pleural effusion?The Answer is:,Right lower zone ,Lower Left Lung
+xmlab386/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and heart disease ,Pleural Effusion
+xmlab386/source.jpg,Question: What color does the left lung show in the picture?The Answer is:, Red ,Black
+xmlab386/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,2
+xmlab386/source.jpg,Question: What is the effect of the main organ in this picture?The Answer is:, Decrease in size ,Breathe
+xmlab386/source.jpg,Question: What kind of symptoms will the disease on the lower left of lung bring to the patient?The Answer is:, Cough ,"Chest tightness, dyspnea, chest pain"
+xmlab386/source.jpg,Question: Which organs/organ is part of the respiratory system in this image?The Answer is:, Lungs ,Lung
+xmlab401/source.jpg,Question: Where is the brain stem in this image?The Answer is:, Right ,Center
+xmlab401/source.jpg,Question: Which organs appear in pairs?The Answer is:, Kidneys ,Temporal Lobe
+xmlab401/source.jpg,Question: What color is the right temporal lobe in the picture?The Answer is:, Blue ,Gray
+xmlab401/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Brain
+xmlab401/source.jpg,Question: How many ears are shown in this image?The Answer is:, Two ,0
+xmlab401/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, Moderate ,Much
+xmlab401/source.jpg,Question: Which organs/organ in the picture belong to the nervous system?The Answer is:, Brain ,Brain
+xmlab405/source.jpg,Question: Where does the image represent in the body?The Answer is:, Head ,Head
+xmlab405/source.jpg,Question: Where is the brain stem in this image?The Answer is:, Right ,Center
+xmlab405/source.jpg,Question: What is the organ system visualized?The Answer is:, Head ,Head
+xmlab405/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Head
+xmlab405/source.jpg,Question: What color is the ears in the picture?The Answer is:, Yellow ,White
+xmlab405/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Brain
+xmlab405/source.jpg,Question: How many temporal lobes in this image?The Answer is:,2 ,0
+xmlab405/source.jpg,Question: What is the function of the tissue on the center of this image?The Answer is:, Nerve ,Control heartbeat and breathing
+xmlab407/source.jpg,Question: What modality is shown in this image?The Answer is:, CT scan ,CT
+xmlab407/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab407/source.jpg,Question: Where is the tooth in this image?The Answer is:, Right maxillary sinus ,Top
+xmlab407/source.jpg,Question: What is the organ system visualized?The Answer is:, Brain ,Head
+xmlab407/source.jpg,Question: What color does the brain stem show in the picture?The Answer is:, Yellow ,Gray
+xmlab407/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Brain
+xmlab407/source.jpg,Question: How many mandibles in this image?The Answer is:, Two ,2
+xmlab407/source.jpg,Question: What is the function of the organ on the top of this image?The Answer is:, Liver ,"Cutting, chewing, maintaining facial contour and assisting pronunciation"
+xmlab407/source.jpg,Question: Which organs/organ in the picture belong to nervous system?The Answer is:,Brain ,Brain
+xmlab427/source.jpg,Question: What modality is shown in this image?The Answer is:, CT scan ,CT
+xmlab427/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab427/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Neck
+xmlab427/source.jpg,Question: What is the shape of larynx in this image?The Answer is:, Circular ,Oval
+xmlab427/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Larynx
+xmlab428/source.jpg,Question: What scanning plane does this image belong to?The Answer is:, Coronal ,Transverse Plane
+xmlab428/source.jpg,Question: Where does the image represent in the body?The Answer is:, Abdomen ,Neck
+xmlab428/source.jpg,Question: Where is the esophagus in this image?The Answer is:, Left side ,Under the trachea
+xmlab428/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Neck
+xmlab428/source.jpg,Question: What color do the trachea show in the picture?The Answer is:, Blue ,Black
+xmlab428/source.jpg,Question: What is the shape of trachea about this patient?The Answer is:, Circular ,Irregular
+xmlab428/source.jpg,Question: What role does the black hollow tissue play in the human body?The Answer is:, To support the body ,Gas delivery
+xmlab428/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Trachea
+xmlab429/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Neck
+xmlab429/source.jpg,Question: Which is trachea in this image?The Answer is:, White arrow ,Black Hollow
+xmlab429/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Neck
+xmlab429/source.jpg,Question: What is the shape of trachea about this patient?The Answer is:, Circular ,Irregular
+xmlab429/source.jpg,Question: What role does the black hollow tissue play in the human body?The Answer is:, To support the body ,Gas delivery
+xmlab429/source.jpg,Question: Which organs/organ in the picture belong to the digestive system?The Answer is:, Liver and pancreas ,Esophagus
+xmlab436/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Sagittal ,Transverse Plane
+xmlab436/source.jpg,Question: Which organ system is imaged?The Answer is:, Brain ,Head
+xmlab436/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,"Brain Edema, Brain Enhancing Tumor"
+xmlab436/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,2
+xmlab436/source.jpg,Question: What is the main cause of the disease on the right lobe of brain in this picture?The Answer is:, Stroke ,"Brain embryonic tissue dysplasia, genetic factors, chemical factors"
+xmlab442/source.jpg,Question: How was this image taken?The Answer is:, CT scan ,MRI
+xmlab442/source.jpg,Question: Where does the picture show?The Answer is:, The brain ,Head
+xmlab442/source.jpg,Question: Where is the brain non-enhancing tumor?The Answer is:,Right frontal lobe ,Upper Left Lobe
+xmlab442/source.jpg,Question: Which organ system is imaged?The Answer is:, Brain ,Head
+xmlab442/source.jpg,Question: What is the color of abnormality in this image?The Answer is:, Red ,White
+xmlab442/source.jpg,Question: What is the main cause of the disease on the upper left lobe of brain in this picture?The Answer is:, Infection ,"Brain embryonic tissue dysplasia, genetic factors, chemical factors"
+xmlab447/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab447/source.jpg,Question: Where does the picture show?The Answer is:, The brain ,Head
+xmlab447/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Central nervous system ,Head
+xmlab447/source.jpg,Question: What disease is/are shown on the left of brain?The Answer is:, Multiple sclerosis ,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor"
+xmlab447/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,3
+xmlab447/source.jpg,Question: What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?The Answer is:, Memory loss ,"Visual impairment, vomiting, tinnitus, increased intracranial pressure"
+xmlab468/source.jpg,Question: What modality is shown in this image?The Answer is:, MRI ,MRI
+xmlab468/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse Plane
+xmlab468/source.jpg,Question: Where is the brain edema?The Answer is:,Right frontal lobe ,Left Lobe
+xmlab468/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,1
+xmlab468/source.jpg,Question: How to treat the most severe disease in this image?The Answer is:, Surgery ,"Pharmacotherapy, rehabilitation"
+xmlab469/source.jpg,Question: What modality is shown in this image?The Answer is:, T1-weighted ,MRI
+xmlab469/source.jpg,Question: Where are the abnormalities in this image?The Answer is:, Right frontal lobe ,Upper Left Lobe
+xmlab469/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,1
+xmlab469/source.jpg,Question: How to treat the most severe disease in this image?The Answer is:, None of the above ,"Pharmacotherapy, rehabilitation"
+xmlab471/source.jpg,Question: What type of medical image is this?The Answer is:, CT scan ,MRI
+xmlab471/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Head
+xmlab471/source.jpg,Question: Where is the brain tumor?The Answer is:,Right frontal lobe ,Upper Left Lobe
+xmlab471/source.jpg,Question: What is the organ system visualized?The Answer is:, Brain ,Head
+xmlab471/source.jpg,Question: How to prevent the occurrence of the disease on the upper left lobe of brain in this image?The Answer is:, By taking a vaccine ,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma"
+xmlab473/source.jpg,Question: What imaging modality was used?The Answer is:,MRI ,MRI
+xmlab473/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Head
+xmlab473/source.jpg,Question: Where is the brain tumor?The Answer is:,Right frontal lobe ,Upper Right Lobe
+xmlab473/source.jpg,Question: What disease is/are shown on the upper right of brain?The Answer is:, Multiple sclerosis ,"Brain Edema, Brain Non-enhancing Tumor"
+xmlab473/source.jpg,Question: What kind of symptoms will the disease on the upper right lobe of brain in the picture bring to the patient?The Answer is:, Memory loss ,"Visual impairment, vomiting, tinnitus, increased intracranial pressure"
+xmlab474/source.jpg,Question: How was this image taken?The Answer is:, MRI ,MRI
+xmlab474/source.jpg,Question: Where is the brain tumor?The Answer is:,Right frontal lobe ,Upper Right Lobe
+xmlab474/source.jpg,Question: Which organ system is imaged?The Answer is:, Brain ,Head
+xmlab474/source.jpg,Question: How to prevent the occurrence of the disease on the upper right lobe of brain in this image?The Answer is:, By taking a vaccine ,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma"
+xmlab483/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T1
+xmlab483/source.jpg,Question: What scanning plane does this image belong to?The Answer is:, Coronal plane ,Transverse Plane
+xmlab483/source.jpg,Question: Where does the image represent in the body?The Answer is:, Brain ,Head
+xmlab483/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,"Brain Edema, Brain Non-enhancing Tumor"
+xmlab483/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,"tensor(nan, dtype=torch.float64)"
+xmlab49/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab49/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Brain
+xmlab49/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T2-weighted ,T2
+xmlab49/source.jpg,Question: What is the main organ in the image?The Answer is:,Brain ,Brain
+xmlab49/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Brain ,Brain
+xmlab49/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,Brain Edema
+xmlab49/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right frontal lobe ,Lower Right
+xmlab495/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Head
+xmlab495/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right frontal lobe ,Upper Right Lobe
+xmlab495/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Head
+xmlab495/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,2
+xmlab495/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,"tensor(nan, dtype=torch.float64)"
+xmlab498/source.jpg,Question: What is the mr weighting in this image?The Answer is:,T1 ,T1
+xmlab498/source.jpg,Question: Where are the abnormalities in this image?The Answer is:, Right frontal lobe ,Left Lobe
+xmlab498/source.jpg,Question: Which organ system is imaged?The Answer is:, Brain ,Head
+xmlab498/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and diabetes ,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor"
+xmlab498/source.jpg,Question: What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?The Answer is:, Memory loss ,"Visual impairment, vomiting, tinnitus, increased intracranial pressure"
+xmlab506/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab506/source.jpg,Question: Which part of the human body is the organ located in the image?The Answer is:, Brain ,Head
+xmlab506/source.jpg,Question: Where is the brain tumor located?The Answer is:,Right frontal lobe ,Lower Left Lobe
+xmlab506/source.jpg,Question: What is the main cause of the disease on the left lobe of brain in this picture?The Answer is:, Infection ,"Brain embryonic tissue dysplasia, genetic factors, chemical factors"
+xmlab508/source.jpg,Question: How was this image taken?The Answer is:, CT scan ,MRI
+xmlab508/source.jpg,Question: What type of MRI is shown in this image?The Answer is:, T1-weighted MRI ,T1
+xmlab508/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab508/source.jpg,Question: Where does the image represent in the body?The Answer is:, Head ,Head
+xmlab508/source.jpg,Question: Where is the brain tumor?The Answer is:,Right frontal lobe ,Left Lobe
+xmlab508/source.jpg,Question: What diseases are included in the picture?The Answer is:, Cancer and diabetes ,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor"
+xmlab508/source.jpg,Question: What density is the brain enhancing tumor ?The Answer is:, Hyperdense ,Hyperdense
+xmlab508/source.jpg,Question: What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?The Answer is:, Memory loss ,"Visual impairment, vomiting, tinnitus, increased intracranial pressure"
+xmlab513/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse Plane
+xmlab513/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right frontal lobe ,Lower Left Lobe
+xmlab513/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Central nervous system ,Head
+xmlab513/source.jpg,Question: What disease is/are shown on the lower left of brain?The Answer is:, Brain tumor ,"Brain Edema, Brain Enhancing Tumor"
+xmlab513/source.jpg,Question: What is the color of brain enhancing tumor in this image?The Answer is:, Red ,White
+xmlab513/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,2
+xmlab513/source.jpg,Question: How to prevent the occurrence of the disease on the lower left lobe of brain in this image?The Answer is:, By using a mask ,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma"
+xmlab525/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab525/source.jpg,Question: What is the scanning plane of this image?The Answer is:, Coronal ,Transverse Plane
+xmlab525/source.jpg,Question: Where is the brain non-enhancing tumor?The Answer is:,Right frontal lobe ,Left Lobe
+xmlab525/source.jpg,Question: What disease is/are shown on the left of brain?The Answer is:, Multiple sclerosis ,"Brain Edema, Brain Non-enhancing Tumor"
+xmlab525/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,2
+xmlab525/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,"tensor(nan, dtype=torch.float64)"
+xmlab529/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T2
+xmlab529/source.jpg,Question: Where is the brain edema located?The Answer is:,Right frontal lobe ,Left Lobe
+xmlab529/source.jpg,Question: What organ system is pictured?The Answer is:, Central nervous system ,Head
+xmlab529/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,"tensor(nan, dtype=torch.float64)"
+xmlab53/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab53/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Brain
+xmlab53/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T2
+xmlab53/source.jpg,Question: What is the main organ in the image?The Answer is:, Liver ,Brain
+xmlab53/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Brain
+xmlab53/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,"tensor(nan, dtype=torch.float64)"
+xmlab532/source.jpg,Question: Which part do the organs in this image locate from the aspect of the whole body?The Answer is:, Head ,Head
+xmlab532/source.jpg,Question: Where are the abnormalities in this image?The Answer is:, Right frontal lobe ,Lower Left Lobe
+xmlab532/source.jpg,Question: Which organ system is imaged?The Answer is:, Central nervous system ,Head
+xmlab532/source.jpg,Question: What disease is/are shown on the left of brain?The Answer is:, Multiple sclerosis ,Brain Edema
+xmlab532/source.jpg,Question: How many kinds of abnormalities are there in this image?The Answer is:, Two ,1
+xmlab532/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, None ,"tensor(nan, dtype=torch.float64)"
+xmlab538/source.jpg,Question: Which is the kidney in this image?The Answer is:,Left ,Symmetrical to the bottom spine
+xmlab538/source.jpg,Question: What organ is the gray part on the left of the image?The Answer is:, Liver ,Liver
+xmlab538/source.jpg,Question: What color is the spleen in the picture?The Answer is:, Yellow ,Gray
+xmlab538/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,6
+xmlab538/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, Moderate ,Much
+xmlab538/source.jpg,Question: Which organs/organ is part of the lymphatic system in this image?The Answer is:, Kidneys ,Spleen
+xmlab538/source.jpg,Question: Which organs/organ is part of the urinary system in this image?The Answer is:,Kidneys ,Kidney
+xmlab543/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab543/source.jpg,Question: Where is the colon in this image?The Answer is:, Left side of the abdomen ,Upper Right
+xmlab543/source.jpg,Question: How many lungs have existed in this image?The Answer is:, Two ,2
+xmlab543/source.jpg,Question: What is the effect of the organ on the upper left of this image?The Answer is:, It is displaced ,"Biotransformation, detoxification"
+xmlab543/source.jpg,Question: Which organs/organ in the picture belong to the respiratory system?The Answer is:, Lungs ,Lung
+xmlab548/source.jpg,Question: Which organ system is imaged?The Answer is:, Respiratory system ,Abdomen
+xmlab548/source.jpg,Question: How many existing heart in this image?The Answer is:,Two ,0
+xmlab548/source.jpg,Question: What is the function of the organs appearing in pairs in the picture?The Answer is:, Breathing ,Breathe
+xmlab548/source.jpg,Question: Which organs/organ is part of the digestive system in this image?The Answer is:, Liver ,"Stomach, Colon"
+xmlab548/source.jpg,Question: Which organs/organ in the picture belong to the urinary system?The Answer is:,Kidneys ,Kidney
+xmlab554/source.jpg,Question: What organ is the gray part on the right of the image?The Answer is:, Kidney ,Small Bowel
+xmlab554/source.jpg,Question: How many existing heart in this image?The Answer is:, Two ,0
+xmlab554/source.jpg,Question: What is the effect of the organ on the top of this image?The Answer is:, Decreased ,"Absorb nutrients, secrete enzymes, digest food"
+xmlab557/source.jpg,Question: Which is the kidney in this image?The Answer is:, Left kidney ,Symmetrical to the bottom spine
+xmlab557/source.jpg,Question: What organ is the black part on the upper left of the image?The Answer is:, Liver ,Small Bowel
+xmlab557/source.jpg,Question: What color does the left kidney show in the picture?The Answer is:, Yellow ,Gray
+xmlab557/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,5
+xmlab557/source.jpg,Question: What is the shape of spinal cord in this image?The Answer is:, Oval ,Circular
+xmlab557/source.jpg,Question: What is the effect of the organ on the top of this image?The Answer is:, Decreased ,"Absorb nutrients, secrete enzymes, digest food"
+xmlab557/source.jpg,Question: Which organs/organ is part of the nervous system in this image?The Answer is:, Kidneys ,Spinal cord
+xmlab561/source.jpg,Question: Where is the liver in this image?The Answer is:, Right ,Left
+xmlab561/source.jpg,Question: What color does the duodenum show in the picture?The Answer is:, Blue ,Gray
+xmlab561/source.jpg,Question: How many lungs have existed in this image?The Answer is:, Two ,0
+xmlab561/source.jpg,Question: What is the shape of spleen in the picture?The Answer is:, Round ,Oval
+xmlab561/source.jpg,Question: What is the function of the organ on the center of this image?The Answer is:, Kidney ,"Absorb nutrients, secrete enzymes, digest food"
+xmlab561/source.jpg,Question: Which organs/organ is part of the nervous system in this image?The Answer is:, Kidneys ,Spinal cord
+xmlab573/source.jpg,Question: Where is the stomach in this image?The Answer is:, Left upper quadrant ,Upper Right
+xmlab573/source.jpg,Question: Which organ system is imaged?The Answer is:, Gastrointestinal ,Abdomen
+xmlab573/source.jpg,Question: How many kidneys have existed in this image?The Answer is:, Two ,0
+xmlab573/source.jpg,Question: What is the shape of spinal cord in this image?The Answer is:, Oval ,Circular
+xmlab573/source.jpg,Question: What is the function of the rightmost organ in this picture?The Answer is:, Liver ,Improve the body's immunity
+xmlab573/source.jpg,Question: Which organs/organ in the picture belong to the lymphatic system?The Answer is:, Liver and spleen ,Spleen
+xmlab578/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab578/source.jpg,Question: Where is the esophagus in this image?The Answer is:, Left side ,Center
+xmlab578/source.jpg,Question: What is the organ system visualized?The Answer is:, Liver ,Abdomen
+xmlab578/source.jpg,Question: What color is the spleen in this image?The Answer is:, Yellow ,Gray
+xmlab578/source.jpg,Question: How many existing heart in this image?The Answer is:,Two ,1
+xmlab578/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, Moderate ,Much
+xmlab58/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab58/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Brain
+xmlab58/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T2
+xmlab58/source.jpg,Question: What is the main organ in the image?The Answer is:, Brain ,Brain
+xmlab58/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Brain ,Brain
+xmlab58/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,"Brain Tumor, Brain Edema"
+xmlab58/source.jpg,Question: Where is/are the abnormality located?The Answer is:, Right frontal lobe ,Lower Left
+xmlab580/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Abdomen
+xmlab580/source.jpg,Question: How many lungs have existed in this image?The Answer is:, Two ,2
+xmlab580/source.jpg,Question: How much damage will be caused to the body taking such an image?The Answer is:, Moderate ,Much
+xmlab580/source.jpg,Question: Which organs/organ in the picture belong to the digestive system?The Answer is:, Liver and pancreas ,Esophagus
+xmlab586/source.jpg,Question: In what plane is this image scanned?The Answer is:, Coronal ,Transverse Plane
+xmlab586/source.jpg,Question: What is the leftmost organ in this image?The Answer is:, Liver ,Right Lung
+xmlab586/source.jpg,Question: What color is the lung in this image?The Answer is:, Yellow ,Black
+xmlab586/source.jpg,Question: How many organs are there in this image?The Answer is:, Two ,4
+xmlab586/source.jpg,Question: What is the function of the organ on the top of this image?The Answer is:, Heart ,Promote blood flow
+xmlab604/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab604/source.jpg,Question: Where does the image represent in the body?The Answer is:,Abdomen ,Pelvic Cavity
+xmlab604/source.jpg,Question: Where is the rectum existing in this image?The Answer is:, Left side ,Bottom
+xmlab604/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Pelvic Cavity
+xmlab604/source.jpg,Question: How many femoral heads are shown in this image?The Answer is:, Two ,0
+xmlab604/source.jpg,Question: What is the function of the organ on the bottom of this picture?The Answer is:, Kidney ,"Store feces, excrete feces"
+xmlab604/source.jpg,Question: Which organs/organ in the picture belong to the digestive system?The Answer is:, Liver and pancreas ,Rectum
+xmlab605/source.jpg,Question: Which part do the organs in this image locate from the aspect of the whole body?The Answer is:, Abdomen ,Pelvic Cavity
+xmlab605/source.jpg,Question: Where is rectum in this image?The Answer is:, Left side ,Bottom
+xmlab605/source.jpg,Question: What is the organ system visualized?The Answer is:, Respiratory system ,Pelvic Cavity
+xmlab605/source.jpg,Question: What is the largest organ in the picture?The Answer is:,Liver ,Bladder
+xmlab605/source.jpg,Question: What is the effect of the gray organ on the center of this picture?The Answer is:, It is not visible ,Store urine
+xmlab605/source.jpg,Question: Which organs/organ is part of the digestive system in this image?The Answer is:, Liver ,Rectum
+xmlab622/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Abdomen ,Pelvic Cavity
+xmlab622/source.jpg,Question: Which organs/organ in the picture belong to the urinary system?The Answer is:,Kidneys ,Bladder
+xmlab628/source.jpg,Question: How was this image taken?The Answer is:, CT scan ,CT
+xmlab628/source.jpg,Question: Where does the picture show?The Answer is:,Abdomen ,Pelvic Cavity
+xmlab628/source.jpg,Question: What is the function of the organ on the bottom of this image?The Answer is:, Kidney ,"Digest food, absorb water, excrete body waste"
+xmlab629/source.jpg,Question: What organ system is pictured?The Answer is:, Respiratory system ,Pelvic Cavity
+xmlab629/source.jpg,Question: What is the function of the organ on the top of this image?The Answer is:, Kidney ,"Absorb nutrients, secrete enzymes, digest food"
+xmlab634/source.jpg,Question: Which part of the human body is the organ located in the image?The Answer is:, Abdomen ,Pelvic Cavity
+xmlab634/source.jpg,Question: Where is colon in this image?The Answer is:, Left side ,Upper Left
+xmlab634/source.jpg,Question: What organ system is primarily present in this image?The Answer is:, Respiratory system ,Pelvic Cavity
+xmlab634/source.jpg,Question: What is the effect of the organ on the left of this picture?The Answer is:, It is displaced ,"Digest food, absorb water, excrete body waste"
+xmlab634/source.jpg,Question: Which organs/organ is part of the digestive system in this image?The Answer is:, Liver ,"Colon, Small Bowel"
+xmlab71/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab71/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Brain ,Brain
+xmlab71/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T2
+xmlab71/source.jpg,Question: What is the main organ in the image?The Answer is:, Brain ,Brain
+xmlab71/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Brain ,Brain
+xmlab71/source.jpg,Question: What diseases are included in the picture?The Answer is:, Brain tumors ,"tensor(nan, dtype=torch.float64)"
+xmlab77/source.jpg,Question: What modality is used to take this image?The Answer is:, MRI ,MRI
+xmlab77/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Brain
+xmlab77/source.jpg,Question: What is the mr weighting in this image?The Answer is:, T1-weighted ,T2
+xmlab77/source.jpg,Question: What is the main organ in the image?The Answer is:, Brain ,Brain
+xmlab77/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Brain ,Brain
+xmlab77/source.jpg,Question: What diseases are included in the picture?The Answer is:, Stroke and Alzheimer's disease ,"tensor(nan, dtype=torch.float64)"
+xmlab82/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab82/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab82/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,Lung
+xmlab82/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Lung ,Lung
+xmlab82/source.jpg,Question: What diseases are included in the picture?The Answer is:, Lung cancer and pneumonia ,"tensor(nan, dtype=torch.float64)"
+xmlab85/source.jpg,Question: What modality is used to take this image?The Answer is:, CT scan ,CT
+xmlab85/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab85/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,Liver
+xmlab85/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Liver ,Liver
+xmlab90/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab90/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Chest ,Chest
+xmlab90/source.jpg,Question: What is the main organ in the image?The Answer is:, Lung ,"Lung, Heart"
+xmlab90/source.jpg,Question: What is the largest organ in the picture?The Answer is:, Lung ,Lung
+xmlab93/source.jpg,Question: What modality is used to take this image?The Answer is:,CT scan ,CT
+xmlab93/source.jpg,Question: Which part of the body does this image belong to?The Answer is:, Head ,Chest
+xmlab93/source.jpg,Question: What is the main organ in the image?The Answer is:, Liver ,Spinal Cord
