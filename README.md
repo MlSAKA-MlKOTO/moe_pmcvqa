@@ -1,3 +1,4 @@
+# Origin md
 # MedVInT_TD - Official PyTorch Model and Checkpoints
 
 We provide the official **Pytorch** implementation of the MedVInT_TD model and checkpoints of MedVInT_TD with PMC-LLaMA, PMC-CLIP on both blank and choice tasks.
@@ -15,4 +16,7 @@ If you use this code or use our pre-trained weights for your research, please ci
       journal={arXiv preprint arXiv:2305.10415},
 }
 ```
+
+## Use
+Change the directory in train_downstream.sh and train_downstream.py to your own directory, where I have marked wich '!'
 
